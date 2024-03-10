@@ -1,5 +1,5 @@
 <img src="TelaLogin.png">
-
+ <r></r>
 Nesse projeto, temos uma página HTML simples com um formulário de login e uma opção para se cadastrar. 
 No corpo, temos o formulário de login e uma opção para se cadastrar. 
 O formulário possui três campos:usuário, senha e um botão para efetuar o login. 
